@@ -12,6 +12,8 @@
  * 
  */
 int main(int argc, char** argv) {
+    
+    o sid é gay
 
     return (EXIT_SUCCESS);
 }
