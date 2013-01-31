@@ -13,7 +13,7 @@
  */
 int main(int argc, char** argv) {
     
-    o sid é gay
+    o frota eh gay
 
     return (EXIT_SUCCESS);
 }
